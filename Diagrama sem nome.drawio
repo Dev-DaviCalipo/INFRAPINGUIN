@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-06T19:13:07.075Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="L9a5aL9XjeBAhXZtGe8t" version="22.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-06T19:22:29.524Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="26GngHUamKnfwTcgiQrm" version="22.0.3" type="github">
   <diagram name="Página-1" id="wbVa1MJJYLq1jMh69SG7">
-    <mxGraphModel dx="1750" dy="942" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" background="#000000" math="0" shadow="1">
+    <mxGraphModel dx="1615" dy="869" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" background="#000000" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -88,7 +88,7 @@
         <mxCell id="qwxdoBP6Ln0QENr5x2yf-64" value="" style="image;html=1;image=img/lib/clip_art/computers/Server_128x128.png;rounded=1;labelBackgroundColor=none;fillColor=#EEEEEE;strokeColor=#FFFFFF;fontColor=#1A1A1A;" vertex="1" parent="qwxdoBP6Ln0QENr5x2yf-37">
           <mxGeometry x="50" y="120" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="qwxdoBP6Ln0QENr5x2yf-40" value="" style="endArrow=classic;html=1;rounded=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#FFFFFF;fontColor=default;" edge="1" parent="1" source="qwxdoBP6Ln0QENr5x2yf-41" target="qwxdoBP6Ln0QENr5x2yf-25">
+        <mxCell id="qwxdoBP6Ln0QENr5x2yf-40" value="" style="endArrow=classic;html=1;rounded=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#FFFFFF;fontColor=default;" edge="1" parent="1" source="qwxdoBP6Ln0QENr5x2yf-77" target="qwxdoBP6Ln0QENr5x2yf-25">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="930" y="915" as="sourcePoint" />
             <mxPoint x="950" y="760" as="targetPoint" />
@@ -140,7 +140,25 @@
           <mxGeometry x="180" y="710.0000000000001" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="qwxdoBP6Ln0QENr5x2yf-71" value="&lt;font color=&quot;#ffffff&quot;&gt;PLC&amp;nbsp;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="380" y="620" width="120" height="70" as="geometry" />
+          <mxGeometry x="420" y="645" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qwxdoBP6Ln0QENr5x2yf-73" value="&lt;font color=&quot;#9e9e9e&quot;&gt;MENSAGENS (DESTINO CAIXA)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="320" y="425" width="230" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="qwxdoBP6Ln0QENr5x2yf-75" value="&lt;font color=&quot;#9e9e9e&quot;&gt;REQ/CONS&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="730" y="290" width="90" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="qwxdoBP6Ln0QENr5x2yf-76" value="&lt;font color=&quot;#b85450&quot;&gt;SOLICITAMOS ACESSO DIRETO AO PLC&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="650" width="250" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="qwxdoBP6Ln0QENr5x2yf-79" value="" style="endArrow=classic;html=1;rounded=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#FFFFFF;fontColor=default;" edge="1" parent="1" source="qwxdoBP6Ln0QENr5x2yf-41" target="qwxdoBP6Ln0QENr5x2yf-77">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="930" y="630" as="sourcePoint" />
+            <mxPoint x="930" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qwxdoBP6Ln0QENr5x2yf-77" value="&lt;font color=&quot;#fcfcfc&quot; style=&quot;font-size: 11px;&quot;&gt;JUMP SERVER&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="884.9999999999999" y="590" width="90" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
